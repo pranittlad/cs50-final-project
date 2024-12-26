@@ -54,8 +54,4 @@ This project is a Chrome Extension that enhances YouTube by allowing users to bo
 
 ---
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/youtube-bookmark-extension.git
